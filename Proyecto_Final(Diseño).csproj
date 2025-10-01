@@ -137,6 +137,7 @@
     <Compile Include="Administrador_Usuario.aspx.designer.cs">
       <DependentUpon>Administrador_Usuario.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="Comprador_Infomacion.aspx.cs">
       <DependentUpon>Comprador_Infomacion.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
